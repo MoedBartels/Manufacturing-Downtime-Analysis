@@ -1,6 +1,4 @@
 # Manufacturing-Downtime-Analysis
-This project analyzes productivity and downtime across a soda bottling production line.
-# Manufacturing Downtime Analysis
 
 ### Soda Bottling Production Line | Excel | Power Query | Power BI
 
