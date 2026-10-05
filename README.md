@@ -85,4 +85,4 @@ The dataset supports additional analysis across products, flavors, batch volumes
 
 ## Full Report
 
-A detailed written report containing the methodology, findings, limitations and further areas for investigation is included in this repository.
+A detailed [written report](https://github.com/MoedBartels/Manufacturing-Downtime-Analysis/blob/main/Line%20downtime%20report%202.docx) containing the methodology, findings, limitations and further areas for investigation is included in this repository.
